@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "Aboout Me"
+excerpt: "Dhiraj Neupane"
 ---
 
 I am a Deep Learning Researcher. 
