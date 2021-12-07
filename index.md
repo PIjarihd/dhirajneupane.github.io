@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "About Me..."
+excerpt: "Aboout Me"
 ---
 
 I am a Deep Learning Researcher. 
