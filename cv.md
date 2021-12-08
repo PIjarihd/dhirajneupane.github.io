@@ -50,7 +50,7 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Researcher__, IPCamp, South Korea 
 
 - Task
 - Task
