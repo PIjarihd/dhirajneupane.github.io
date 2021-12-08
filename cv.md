@@ -19,7 +19,7 @@ __Kathmandu Univerity__ <br/>_Kavrepalanchok, Nepal_
 __St. Xavier's College__ <br/>_Kathmandu, Nepal_
 <br/>+2 Science
 
-## Awards
+## Grant
 
  <!--` 2012 -  2016` -->
 Name of Award, Organization 
