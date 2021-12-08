@@ -8,15 +8,15 @@ layout: resume
 ## Education
 
 `March 2019 - February 2011`
-__Changwon National University, Changwon-Si, Gyeongsangnam-Do (South Korea)__
+__Changwon National University, Changwon-Si, South Korea__
 M.S. in Information and Communication Engineering
 
 `August 2012 - September 2016`
-__Kathmandu Univerity, Kavre, Dhulikhel (Nepal)__
+__Kathmandu Univerity, Kavre, Nepal__
 B.E. in Electrical and Electronics (Communication) Engineering
 
 `July 2010 - June 2012`
-__St. Xavier's College, Maitighar, Kathmandu (Nepal)__
+__St. Xavier's College, Kathmandu, Nepal__
 +2 Science
 
 ## Awards
