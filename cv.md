@@ -1,9 +1,9 @@
 ---
 layout: resume
 ---
-#Currently
+<!-- #Currently
 
-#Current Position Description
+#Current Position Description -->
 
 ## Education
 
