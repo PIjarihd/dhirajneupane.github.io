@@ -17,7 +17,7 @@ B.E. in Electrical and Electronics (Communication) Engineering
 
 ## Awards
 
-` 2012 -  2016`
+ <!--` 2012 -  2016` -->
 Name of Award, Organization 
 
 ## Publications
