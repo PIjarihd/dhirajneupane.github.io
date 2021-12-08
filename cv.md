@@ -5,7 +5,7 @@ layout: resume
 
 #Current Position Description -->
 
-# Education
+## Education
 
 `March 2019 - February 2011`
 __Changwon National University, Changwon-Si, Gyeongsangnam-Do (South Korea)__
