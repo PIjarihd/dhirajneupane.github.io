@@ -12,11 +12,11 @@ __Changwon National University__ <br/>_Changwon-Si, South Korea_
 <br/>M.S. in Information and Communication Engineering
 
 `August 2012 - September 2016`
-__Kathmandu Univerity__ _Kavrepalanchok, Nepal_
+__Kathmandu Univerity__ <br/>_Kavrepalanchok, Nepal_
 <br/>B.E. in Electrical and Electronics (Communication) Engineering
 
 `July 2010 - June 2012`
-__St. Xavier's College__ _Kathmandu, Nepal_
+__St. Xavier's College__ <br/>_Kathmandu, Nepal_
 <br/>+2 Science
 
 ## Awards
