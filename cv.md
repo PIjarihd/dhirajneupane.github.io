@@ -8,8 +8,8 @@ layout: resume
 ## Education
 
 `March 2019 - February 2011`
-__Changwon National University, Changwon-Si, South Korea__
-</br>M.S. in Information and Communication Engineering
+__Changwon National University__ _Changwon-Si, South Korea_
+M.S. in Information and Communication Engineering
 
 `August 2012 - September 2016`
 __Kathmandu Univerity, Kavre, Nepal__
