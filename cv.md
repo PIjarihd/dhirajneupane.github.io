@@ -1,23 +1,23 @@
 ---
 layout: resume
 ---
-## Currently
+#Currently
 
-Current Position Description
+#Current Position Description
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`March 2019 - February 2011`
+__Changwon National University, South Korea__
+M.S. in Information and Communication Engineering
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`August 2012 - September 2016``
+__Kathmandu Univerity, Nepal__
+B.E. in Electrical and Electronics (Communication) Engineering 
 
 ## Awards
 
-`2012`
+` 2012 -  2016`
 Name of Award, Organization 
 
 ## Publications
