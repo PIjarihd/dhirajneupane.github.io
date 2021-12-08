@@ -21,8 +21,8 @@ __St. Xavier's College__ <br/>_Kathmandu, Nepal_
 
 ## Grant
 
- <!--` 2012 -  2016` -->
-Name of Award, Organization 
+ ` March 2019 - February 2021`
+'International Student Full Scholarship' , Changwon National University 
 
 ## Publications
 
