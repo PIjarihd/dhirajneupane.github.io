@@ -16,7 +16,7 @@ __Kathmandu Univerity__ _Kavrepalanchok, Nepal_
 B.E. in Electrical and Electronics (Communication) Engineering
 
 `July 2010 - June 2012`
-__St. Xavier's College, Kathmandu, Nepal__
+__St. Xavier's College__ _Kathmandu, Nepal_
 +2 Science
 
 ## Awards
