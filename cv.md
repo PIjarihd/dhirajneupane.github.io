@@ -11,7 +11,7 @@ layout: resume
 __Changwon National University, South Korea__
 M.S. in Information and Communication Engineering
 
-`August 2012 - September 2016``
+`August 2012 - September 2016`
 __Kathmandu Univerity, Nepal__
 B.E. in Electrical and Electronics (Communication) Engineering 
 
