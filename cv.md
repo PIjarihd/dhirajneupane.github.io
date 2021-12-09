@@ -21,7 +21,7 @@ layout: resume
 <br/>+2 Science
 
 ## Grant
- `March 2019 - February 2011`
+ `March 2019 - February 2021`
 __International Student Full Scholarship__ <br/>_Changwon National University_ 
 
 ## Publications
