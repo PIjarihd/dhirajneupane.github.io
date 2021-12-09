@@ -8,7 +8,7 @@ layout: resume
 ## Education
 
 `March 2019 - February 2011`
-[__Changwon National University__ ](https://www.changwon.ac.kr/eng)<br/>
+[Changwon National University](https://www.changwon.ac.kr/eng)<br/>
 __Changwon National University__ <br/>_Changwon-Si, South Korea_
 <br/>M.S. in Information and Communication Engineering
 
