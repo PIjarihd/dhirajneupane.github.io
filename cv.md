@@ -17,7 +17,7 @@ layout: resume
 <br/>B.E. in Electrical and Electronics (Communication) Engineering
 
 `July 2010 - June 2012`
-__St. Xavier's College__ <br/>_Kathmandu, Nepal_
+[__St. Xavier's College__](https://sxc.edu.np/) <br/>_Kathmandu, Nepal_
 <br/>+2 Science
 
 ## Grant
