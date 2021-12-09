@@ -9,7 +9,7 @@ layout: resume
 
 `March 2019 - February 2011`
 [Changwon National University](https://www.changwon.ac.kr/eng)<br/>
-__Changwon National University__ <br/>_Changwon-Si, South Korea_
+<!--__Changwon National University__ --> <br/>_Changwon-Si, South Korea_
 <br/>M.S. in Information and Communication Engineering
 
 `August 2012 - September 2016`
