@@ -13,7 +13,7 @@ layout: resume
 <br/>M.S. in Information and Communication Engineering
 
 `August 2012 - September 2016`
-__Kathmandu Univerity__ <br/>_Kavrepalanchok, Nepal_
+[__Kathmandu Univerity__](https://ku.edu.np/) <br/>_Kavrepalanchok, Nepal_
 <br/>B.E. in Electrical and Electronics (Communication) Engineering
 
 `July 2010 - June 2012`
