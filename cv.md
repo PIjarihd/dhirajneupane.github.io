@@ -64,8 +64,6 @@ __Current Job Title__, Current Employer
 - Task
 - Task
 
-![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
-
 <!-- ### Footer
 
 Last updated: May 2013 -->
