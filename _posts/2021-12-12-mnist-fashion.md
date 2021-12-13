@@ -18,7 +18,8 @@ Today I am going to use CNN to classify Fashion-MNIST dataset. MNIST Fashion dat
   import matplotlib.pyplot as plt
   from tensorflow import keras
 ```
-  ### Loading the dataset
+
+## Loading the dataset
   
   Let's load the fashion-MNIST dataset and also load the train-test images and labels
   ```python
@@ -34,13 +35,15 @@ Today I am going to use CNN to classify Fashion-MNIST dataset. MNIST Fashion dat
   print(training_images[0]) #Prints the 28*28 pixel values of the first image
   print(training_labels[0] #Prints the label for the first image
   ```
-  ### Normalizing the data
+  
+### Normalizing the data
   Neural network work better with the normalized data. The pixel values are from 0-255 which will be normalized from 0-1.
  ```python
   training_images=training_images/255.0
   test_images=test_images/255.0
   ```
-  ## Designing Model, training the model and evaluation
+  
+## Designing Model, training the model and evaluation
   ```python
   model=tf.keras.models.Sequential([tf.keras.layers.Flatten(),
                         tf.keras.layers.Dense(128,activation=tf.nn.relu),
