@@ -17,7 +17,6 @@ category: presentation
 <section data-markdown>
 ## HTML or Markdown
 Reveal.js works with either. Use whatever you are more comfortable with.
-  ाााफब वा
 
 </section>
 
