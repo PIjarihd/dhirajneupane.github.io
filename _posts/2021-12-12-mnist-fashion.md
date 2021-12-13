@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Classification using CNN for Fashion-MNIST Data
-date: 2021-12-12
 excerpt: "CNN classification  Fashion-MNIST"
+modified: 2021-12-12
+tags: [machine learning]
 comments: true
 category: blog
 ---
@@ -10,7 +11,7 @@ category: blog
 <div class="message">
   Today I am going to use CNN to classify Fashion-MNIST dataset. MNIST Fashion dataset contains total 70,000 images and the respective laberls. Out of them, 60000 images are training images and the rest 10,000 are test images.
   Let's get started.
-  
+  </div>
 ## Importing the necessary libraries, downlaoding the fashion-mnist dataset and normalizing the dataset
   ```python
   # Import necessary libraries
