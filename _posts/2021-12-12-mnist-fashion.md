@@ -10,7 +10,7 @@ category: blog
 Today I am going to use CNN to classify Fashion-MNIST dataset. MNIST Fashion dataset contains total 70,000 images and the respective laberls. Out of them, 60000 images are training images and the rest 10,000 are test images.
   Let's get started.
   
-## Importing the necessary libraries, downlaoding the fashion-mnist dataset and normalizing the dataset
+### Importing the necessary libraries
 ```python
   # Import necessary libraries
   import tensorflow as tf
@@ -43,7 +43,7 @@ Today I am going to use CNN to classify Fashion-MNIST dataset. MNIST Fashion dat
   test_images=test_images/255.0
   ```
   
-## Designing Model, training the model and evaluation
+### Designing Model, training the model and evaluation
   ```python
   model=tf.keras.models.Sequential([tf.keras.layers.Flatten(),
                         tf.keras.layers.Dense(128,activation=tf.nn.relu),
