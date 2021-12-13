@@ -3,10 +3,8 @@ layout: post
 title: Classification using CNN for Fashion-MNIST Data
 date: 2021-12-12
 excerpt: "CNN classification  Fashion-MNIST"
-tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
-tags: [Machine Learning]
 ---
 
 <div class="message">
