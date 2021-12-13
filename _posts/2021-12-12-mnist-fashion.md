@@ -11,13 +11,13 @@ Today I am going to use CNN to classify Fashion-MNIST dataset. MNIST Fashion dat
   Let's get started.
   
 ## Importing the necessary libraries, downlaoding the fashion-mnist dataset and normalizing the dataset
-  ```python
+```python
   # Import necessary libraries
   import tensorflow as tf
   import numpy as np
   import matplotlib.pyplot as plt
   from tensorflow import keras
-  ```
+```
   ### Loading the dataset
   
   Let's load the fashion-MNIST dataset and also load the train-test images and labels
