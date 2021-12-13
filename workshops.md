@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Workshops
-excerpt: "Recent Workshops"
+title: Literature
+excerpt: "My Creations"
 ---
 
-# Workshops I've Put Together
+# My Creations
 
-- [GitHub Pages Workshop](https://github.com/BioData-Club/githubPagesTutorial)
+
