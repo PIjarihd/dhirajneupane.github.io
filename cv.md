@@ -32,13 +32,13 @@ __International Student Full Scholarship__ <br/>_Changwon National University_
 `December 2021`
 [**CNN-Based Fault Detection for Smart Manufacturinge**](https://www.mdpi.com/2076-3417/11/24/11732/htm) _applied sciences_ <br/>
 
-`June 2021`
+<br/>`June 2021`
 [**Bearing Fault Detection Using Scalogram and Switchable Normalization-Based CNN (SN-CNN)**](https://ieeexplore.ieee.org/document/9456898), _IEEE Access_ <br/>
 
-`November 2020`
+<br/>`November 2020`
 [**A Review on Deep Learning-Based Approaches for Automatic Sonar Target Recognition**](https://www.mdpi.com/2079-9292/9/11/1972/htm) _electronics_ <br/>
 
-`April 2020`
+<br/>`April 2020`
 [**Bearing Fault Detection and Diagnosis Using Case Western Reserve University Dataset With Deep Learning Approaches: A Review**](https://ieeexplore.ieee.org/abstract/document/9078761), _IEEE Access_ <br/>
 
 
