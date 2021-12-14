@@ -47,16 +47,16 @@ __Operation Assistant__, Nepal Electronic Payment Systems Ltd. (Nepal)
 ### Journals
 
 `December 2021`
-[**CNN-Based Fault Detection for Smart Manufacturinge**](https://www.mdpi.com/2076-3417/11/24/11732/htm), _applied sciences_ <br/>
+[**CNN-Based Fault Detection for Smart Manufacturinge**](https://www.mdpi.com/2076-3417/11/24/11732/htm), Applied Sciences <br/>
 
 `June 2021`
-[**Bearing Fault Detection Using Scalogram and Switchable Normalization-Based CNN (SN-CNN)**](https://ieeexplore.ieee.org/document/9456898), _IEEE Access_ <br/>
+[**Bearing Fault Detection Using Scalogram and Switchable Normalization-Based CNN (SN-CNN)**](https://ieeexplore.ieee.org/document/9456898), IEEE Access <br/>
 
 `November 2020`
-[**A Review on Deep Learning-Based Approaches for Automatic Sonar Target Recognition**](https://www.mdpi.com/2079-9292/9/11/1972/htm), _electronics_ <br/>
+[**A Review on Deep Learning-Based Approaches for Automatic Sonar Target Recognition**](https://www.mdpi.com/2079-9292/9/11/1972/htm), Electronics <br/>
 
 `April 2020`
-[**Bearing Fault Detection and Diagnosis Using Case Western Reserve University Dataset With Deep Learning Approaches: A Review**](https://ieeexplore.ieee.org/abstract/document/9078761), _IEEE Access_ <br/>
+[**Bearing Fault Detection and Diagnosis Using Case Western Reserve University Dataset With Deep Learning Approaches: A Review**](https://ieeexplore.ieee.org/abstract/document/9078761), IEEE Access <br/>
 
 <!--
 ### Books
@@ -72,11 +72,11 @@ Book Title, Journal Title
 ## Conferences
 
 `October 2020`
-[**Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence**](https://ieeexplore.ieee.org/abstract/document/9289232), _International Conference on Information and Communication Technology Convergence (ICTC2020)_
+[**Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence**](https://ieeexplore.ieee.org/abstract/document/9289232), International Conference on Information and Communication Technology Convergence (ICTC2020)
 
 ## Grant
  `March 2019 - February 2021`
-__International Student Full Scholarship__ <br/>_Changwon National University_ 
+__International Student Full Scholarship__ <br/>Changwon National University 
 
 
 <!-- ### Footer
