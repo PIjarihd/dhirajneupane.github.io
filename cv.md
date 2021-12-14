@@ -39,13 +39,9 @@ __Operation Assistant__, Nepal Electronic Payment Systems Ltd. (Nepal)
 - Analyzing the transactions and reporting
 - Troubleshooting the technical problems and solving them
 - Testing all the possible issues before the ATM or PoS service was established
-
 ## Publications
-
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
 ### Journals
-
 `December 2021`
 [**CNN-Based Fault Detection for Smart Manufacturinge**](https://www.mdpi.com/2076-3417/11/24/11732/htm), Applied Sciences <br/>
 
