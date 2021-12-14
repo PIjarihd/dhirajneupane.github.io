@@ -34,12 +34,6 @@ __Graduate Research Assistant__, Dept. of Information and Communication Engineer
 - Task
 - Task
 -->
-
-
-## Grant
- `March 2019 - February 2021`
-__International Student Full Scholarship__ <br/>_Changwon National University_ 
-
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
@@ -73,6 +67,11 @@ Book Title, Journal Title
 
 `October 2020`
 [**Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence**](https://ieeexplore.ieee.org/abstract/document/9289232), _International Conference on Information and Communication Technology Convergence (ICTC2020)_
+
+## Grant
+ `March 2019 - February 2021`
+__International Student Full Scholarship__ <br/>_Changwon National University_ 
+
 
 <!-- ### Footer
 
