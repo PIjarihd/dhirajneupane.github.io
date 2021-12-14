@@ -22,19 +22,19 @@ layout: resume
 ## Industrial Experiences
 
 `Current`
-__Researcher__, IPCamp (South Korea)
+__Researcher__, _IPCamp_ (South Korea)
 - Computer Vision
 - Object Detection
 - Camera Controlling
 
 `March 2019 - February 2021`
-__Graduate Research Assistant__, Dept. of Information and Communication Engineering, CWNU (South Korea) 
+__Graduate Research Assistant__, _Dept. of Information and Communication Engineering, CWNU_ (South Korea)
 - Carrying out ML and DL-related experiments
 - Preparing technical documentation and writing research papers
 - Managing lab resources
 
 `April 2018 - February 2019`
-__Operation Assistant__, Nepal Electronic Payment Systems Ltd. (Nepal)
+__Operation Assistant__, _Nepal Electronic Payment Systems Ltd._ (Nepal)
 - ATM and PoS monitoring
 - Analyzing the transactions and reporting
 - Troubleshooting the technical problems and solving them
