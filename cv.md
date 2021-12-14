@@ -55,7 +55,7 @@ Book Title, Journal Title
 ## Conferences
 
 `October 2020`
-[**Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence]**(https://ieeexplore.ieee.org/abstract/document/9289232), _International Conference on Information and Communication Technology Convergence (ICTC2020)_
+[**Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence**](https://ieeexplore.ieee.org/abstract/document/9289232), _International Conference on Information and Communication Technology Convergence (ICTC2020)_
 
 
 ## Occupation
