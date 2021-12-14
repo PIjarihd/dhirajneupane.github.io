@@ -30,10 +30,11 @@ __Researcher__, IPCamp, South Korea
 
 `March 2019 - February 2021`
 __Graduate Research Assistant__, Dept. of Information and Communication Engineering, CWNU  
-<!--
-- Task
-- Task
--->
+[comment]: <> <!--
+[comment]: <> - Task
+[comment]: <> - Task
+
+[comment]: <> -->
 ## Publications
 
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
