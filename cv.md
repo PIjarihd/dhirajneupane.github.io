@@ -8,16 +8,33 @@ layout: resume
 ## Education
 
 `March 2019 - February 2021`
-[__Changwon National University__](https://www.changwon.ac.kr/eng)<br/>_Changwon-Si, South Korea_
+[__Changwon National University (CWNU)__](https://www.changwon.ac.kr/eng)<br/>_Changwon-Si, South Korea_
 <br/>M.S. in Information and Communication Engineering
 
 `August 2012 - September 2016`
-[__Kathmandu Univerity__](https://ku.edu.np/) <br/>_Kavrepalanchok, Nepal_
+[__Kathmandu Univerity (KU)__](https://ku.edu.np/) <br/>_Kavrepalanchok, Nepal_
 <br/>B.E. in Electrical and Electronics (Communication) Engineering
 
 `July 2010 - June 2012`
-[__St. Xavier's College__](https://sxc.edu.np/) <br/>_Kathmandu, Nepal_
+[__St. Xavier's College (SXC)__](https://sxc.edu.np/) <br/>_Kathmandu, Nepal_
 <br/>+2 Science
+
+## Industrial Experiences
+
+`Current`
+__Researcher__, IPCamp, South Korea 
+<!--
+- Task
+- Task
+-->
+
+`March 2019 - February 2021`
+__Graduate Research Assistant__, Dept. of Information and Communication Engineering, CWNU  
+<!--
+- Task
+- Task
+-->
+
 
 ## Grant
  `March 2019 - February 2021`
@@ -56,21 +73,6 @@ Book Title, Journal Title
 
 `October 2020`
 [**Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence**](https://ieeexplore.ieee.org/abstract/document/9289232), _International Conference on Information and Communication Technology Convergence (ICTC2020)_
-
-
-## Occupation
-
-`Current`
-__Researcher__, IPCamp, South Korea 
-<!--
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
 
 <!-- ### Footer
 
