@@ -54,6 +54,9 @@ __Operation Assistant__, Nepal Electronic Payment Systems Ltd. (Nepal)
 `April 2020`
 [**Bearing Fault Detection and Diagnosis Using Case Western Reserve University Dataset With Deep Learning Approaches: A Review**](https://ieeexplore.ieee.org/abstract/document/9078761), IEEE Access <br/>
 
+### Conferences
+`October 2020`
+[**Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence**](https://ieeexplore.ieee.org/abstract/document/9289232), International Conference on Information and Communication Technology Convergence (ICTC2020)
 <!--
 ### Books
 
@@ -63,15 +66,9 @@ Book Title, Journal Title
 `1994`
 Book Title, Journal Title
 -->
-### Conferences
-
-`October 2020`
-[**Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence**](https://ieeexplore.ieee.org/abstract/document/9289232), International Conference on Information and Communication Technology Convergence (ICTC2020)
-
 ## Grant
  `March 2019 - February 2021`
 __International Student Full Scholarship__ <br/>Changwon National University 
-
 
 <!-- ### Footer
 
