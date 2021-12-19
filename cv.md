@@ -41,7 +41,7 @@ __Operation Assistant__, Nepal Electronic Payment Systems Ltd. (Nepal)
 - Testing all the possible issues before the ATM or PoS service was established
 ## Publications
 <!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-### Journals
+#### Journals
 `December 2021`
 [**CNN-Based Fault Detection for Smart Manufacturinge**](https://www.mdpi.com/2076-3417/11/24/11732/htm), Applied Sciences <br/>
 
@@ -63,9 +63,7 @@ Book Title, Journal Title
 `1994`
 Book Title, Journal Title
 -->
-
-
-## Conferences
+#### Conferences
 
 `October 2020`
 [**Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence**](https://ieeexplore.ieee.org/abstract/document/9289232), International Conference on Information and Communication Technology Convergence (ICTC2020)
