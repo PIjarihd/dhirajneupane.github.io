@@ -40,7 +40,6 @@ __Operation Assistant__, Nepal Electronic Payment Systems Ltd. (Nepal)
 - Troubleshooting the technical problems and solving them
 - Testing all the possible issues before the ATM or PoS service was established
 ## Publications
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 ### Journals
 `December 2021`
 [**CNN-Based Fault Detection for Smart Manufacturinge**](https://www.mdpi.com/2076-3417/11/24/11732/htm), Applied Sciences <br/>
@@ -52,7 +51,7 @@ __Operation Assistant__, Nepal Electronic Payment Systems Ltd. (Nepal)
 [**A Review on Deep Learning-Based Approaches for Automatic Sonar Target Recognition**](https://www.mdpi.com/2079-9292/9/11/1972/htm), Electronics <br/>
 
 `April 2020`
-[**Bearing Fault Detection and Diagnosis Using Case Western Reserve University Dataset With Deep Learning Approaches: A Review**](https://ieeexplore.ieee.org/abstract/document/9078761), IEEE Access <br/>
+[**Bearing Fault Detection and Diagnosis Using Case Western Reserve University Dataset With Deep Learning Approaches: A Review**](https://ieeexplore.ieee.org/abstract/document/9078761), IEEE Access
 ### Conferences
 `October 2020`
 [**Deep Learning-Based Bearing Fault Detection Using 2-D Illustration of Time Sequence**](https://ieeexplore.ieee.org/abstract/document/9289232), International Conference on Information and Communication Technology Convergence (ICTC2020)
