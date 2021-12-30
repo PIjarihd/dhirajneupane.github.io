@@ -1,12 +1,7 @@
 ---
 layout: resume
 ---
-<!-- #Currently
-
-#Current Position Description -->
-
 ## Education
-
 `March 2019 - February 2021`
 [__Changwon National University (CWNU)__](https://www.changwon.ac.kr/eng)<br/>_Changwon-Si, South Korea_
 <br/>M.S. in Information and Communication Engineering
@@ -20,7 +15,6 @@ layout: resume
 <br/>+2 Science
 
 ## Industrial Experiences
-
 `Current`
 __Researcher__, IPCamp (South Korea)
 - Computer Vision
