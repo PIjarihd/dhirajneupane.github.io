@@ -1,5 +1,5 @@
 ---
-layout: post-index-lit
+layout: post-index
 title: Literature
 excerpt: "My Creations"
 ---
