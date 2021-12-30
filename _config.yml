@@ -2,12 +2,12 @@
 
 title: Dhiraj's Blog
 locale: en_US
-logo: logo.PNG
+logo: #
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Dhiraj Neupane
-  avatar: PhotoDN.jpg
+  avatar: logo.PNG
   bio: "Deep Learning and Software Development Researcher"
   email: virtuall.kingg@gmail.com #change email later
   # Do not include the @ symbol in your Twitter username
