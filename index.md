@@ -12,3 +12,7 @@ I am a Deep Learning Researcher. <br/>
 - Intelligent Fault Detection
 <!--#- [GitHub Pages](https://dhirajneupane.github.io/) -->
 - Computer Vision
+
+
+
+<br/> <br/> <br/>This blog is under construction...
